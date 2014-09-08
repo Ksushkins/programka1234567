@@ -16,6 +16,7 @@ public class MathTest {
         System.out.print("Ksushkins");
         System.out.print("Ruslan");
         System.out.print("erop");
+        System.out.print("Alexandr");
     }
 
     @Test
