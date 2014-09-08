@@ -13,6 +13,7 @@ public class MathTest {
     public void testNotEquals()
     {
         Assert.assertFalse(5 == 25 / 3);
+        System.out.print("Ksushkins");
     }
 
     @Test
