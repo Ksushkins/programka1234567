@@ -14,6 +14,7 @@ public class MathTest {
     {
         Assert.assertFalse(5 == 25 / 3);
         System.out.print("Ksushkins");
+        System.out.print("Ruslan");
     }
 
     @Test
